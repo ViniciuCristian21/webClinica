@@ -7,7 +7,7 @@
 - [x] HTML
 - [x] BOOTSTRAP
 
-##Banco de dados
+## Banco de dados
 - [X] MARIADB
 
 - Utilizei na produção o XAMP com mariaDB eo APACHE

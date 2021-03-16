@@ -1,6 +1,6 @@
-#Projeto Web clinica 
+# Projeto Web clinica 
 
-##Feito com
+## Feito com
 - [x] CSS
 - [x] JAVASCRIPT
 - [x] PHP
@@ -10,4 +10,4 @@
 ##Banco de dados
 - [X] MARIADB
 
--Utilizei na produção o XAMP com mariaDB eo APACHE
+- Utilizei na produção o XAMP com mariaDB eo APACHE

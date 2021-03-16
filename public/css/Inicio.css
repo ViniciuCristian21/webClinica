@@ -1,0 +1,91 @@
+
+* {
+    font-family: 'Nunito', sans-serif;   
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+#espaco{
+    height: 70px;
+}
+
+#nossa-equipe {
+    margin-top: 2.5vh;
+}
+#convenio {
+    margin-top: 2.5vh ;
+}
+.nav-link {
+    color: black;
+}
+.img-equipe {
+    width: 70%;
+}
+.flecha-topo {
+    padding: 0.4%;
+    border-radius: 14px;
+    position: absolute;
+    background-color: #ccc;
+    right: 10px;
+    top: 500px;
+    opacity: 0.5;
+}
+.flecha-topo:hover {
+    opacity: 1.0;
+
+}
+.footer-creditos {
+    border-top: 1px solid #ccc;
+    position: absolute;
+    bottom: 0;
+}
+.cima {
+    height: 300px;
+}
+.baixo {
+    height: 300px;
+}
+.temp {
+    height: 100px;
+}
+.ft-user {
+    width: 5%;
+}
+.ft-user-noticia {
+    width: 5%;
+}
+.login-nav {
+    display: block;
+}
+.footer-fim{
+    border-top: 1px solid #ccc;
+    position: absolute;
+    bottom: 0;
+    opacity: 1;
+}
+.img-menu {
+    display: none;       
+}
+@media (max-width: 768px) {
+    .resp-nav {
+        font-size: 0.8em;
+    }
+    .img-menu {
+        display: block;
+    }
+    .resp-nav {
+        display: none;
+    }
+    #espaco{
+        height: 95px;
+    }
+
+}
+.ancora {
+    height: 126px;
+}
+.centered {
+    margin: 0 auto !important;
+    float: none !important;
+}
